@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/rails_chartjs.svg)](https://badge.fury.io/rb/rails_chartjs)
+
 # Introduction
 
 Integrate chartjs library to your rails app.
